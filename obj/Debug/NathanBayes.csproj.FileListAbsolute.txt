@@ -1,0 +1,9 @@
+C:\CUSTOM SOFTWARE\NathanBayes\bin\Debug\NathanBayes.exe.config
+C:\CUSTOM SOFTWARE\NathanBayes\bin\Debug\NathanBayes.exe
+C:\CUSTOM SOFTWARE\NathanBayes\bin\Debug\NathanBayes.pdb
+C:\CUSTOM SOFTWARE\NathanBayes\obj\Debug\NathanBayes.csprojResolveAssemblyReference.cache
+C:\CUSTOM SOFTWARE\NathanBayes\obj\Debug\NathanBayes.Form1.resources
+C:\CUSTOM SOFTWARE\NathanBayes\obj\Debug\NathanBayes.Properties.Resources.resources
+C:\CUSTOM SOFTWARE\NathanBayes\obj\Debug\NathanBayes.csproj.GenerateResource.Cache
+C:\CUSTOM SOFTWARE\NathanBayes\obj\Debug\NathanBayes.exe
+C:\CUSTOM SOFTWARE\NathanBayes\obj\Debug\NathanBayes.pdb
